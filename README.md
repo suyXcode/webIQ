@@ -27,10 +27,10 @@ It focuses on clean UI, responsive design, and simple structure, making it perfe
 
 Add screenshots or a live demo link here.
 
-
+![]()
 
 Live Preview (optional):  
-https://suyXcode.github.io/webIQ
+[https://suyXcode.github.io/webIQ](https://suyxcode.github.io/webIQ/)
 
 ---
 
