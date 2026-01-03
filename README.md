@@ -102,11 +102,14 @@ Steps:
 - Create a new branch (feature/your-feature)
 - Commit your changes
 - Push and open a Pull Request
+  
+---
 
-🙌 Author
+## 🙌 Author
 
-**Suyash Singh**
-- GitHub: https://github.com/suyXcode
-- Portfolio: https://suyxcode.netlify.app
-- LinkedIn: https://www.linkedin.com/in/suyash-singh-/
+👤 **Suyash Singh**
+
+🔗 *GitHub: https://github.com/suyXcode*
+💼 *LinkedIn: https://www.linkedin.com/in/suyxcode/*
+🌐 *Portfolio: https://suyxcode.netlify.app*
 
